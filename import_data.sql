@@ -1,0 +1,1 @@
+COPY public.products(name,price,category,country_of_origin,expiration_date,search_tags,description) from 'C:\Users\Kuba\Desktop\db_data.csv' with delimiter ',' CSV HEADER;
