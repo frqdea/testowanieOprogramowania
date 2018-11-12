@@ -4,7 +4,7 @@ podzial zadan:
 
 implementacja funkcjonalnosci:
 
-C -
+C - kuba mrozowski
 
 R -
 
